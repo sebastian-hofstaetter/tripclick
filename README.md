@@ -40,7 +40,7 @@ Unfortunately, the license of TripClick does not allow us to publish the trained
 
 ## TripClick Baselines Results
 
-For more information and commentary on the results, please seee our ECIR paper.
+For more information and commentary on the results, please see our ECIR paper.
 
 ### BM25 Top200 Re-Ranking
 
